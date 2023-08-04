@@ -1,1 +1,1 @@
-# smile-detect_model
+# smile-detect-model
